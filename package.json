@@ -1,0 +1,22 @@
+{
+  "name": "simple-ethers-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austintgriffith/simple-ethers-scripts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austintgriffith/simple-ethers-scripts/issues"
+  },
+  "homepage": "https://github.com/austintgriffith/simple-ethers-scripts#readme",
+  "dependencies": {
+    "ethers": "^5.0.25"
+  }
+}
